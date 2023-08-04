@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(255, 255, 255);
+  }
+  h1 {
+    color: rgb(245, 13, 13);
+    background-color: rgb(8, 8, 8);
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-left: 40%;
+    margin-right: 40%;
+    border-radius: 10%;
+    border: 5px dotted rgb(188, 243, 7);
+  }
+  h2 {
+    background-color: black;
+    margin-left: 40%;
+    margin-right: 40%;
+    padding: 10px 0;
+    border-radius: 10%;
+    border: 4px dashed rgb(188, 243, 7);
+    color: red;
+    text-align: center;
+    letter-spacing: 1px;
+    margin-bottom: 40px;
+  }
+  p {
+    color: black;
+    text-align: justify;
+    text-indent: 30px;
+    line-height: 1.5;
+  }
+  a {
+    color: blueviolet;
+    text-decoration: none;
+  }
+  h3 {
+    text-align: center;
+  }
+  ul {
+    border: solid rgb(188, 243, 7);
+    color: red;
+    border-radius: 10%;
+    margin-left: 41%;
+    margin-right: 44%;
+    background-color: black;
+    color: red;
+  }
+  
